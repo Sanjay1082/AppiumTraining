@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="396495" started-at="2021-12-28T10:54:24 IST" finished-at="2021-12-28T11:01:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="396495" started-at="2021-12-28T10:54:24 IST" finished-at="2021-12-28T11:01:00 IST">
+      <class name="com.Test.AdvanceSearchFacetInteractionsTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Test.AdvanceSearchFacetInteractionsTest@df27fae]" name="Setup" is-config="true" duration-ms="45374" started-at="2021-12-28T10:54:24 IST" finished-at="2021-12-28T10:55:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyTheVisibilityOfSearchFacetTest()[pri:1, instance:com.Test.AdvanceSearchFacetInteractionsTest@df27fae]" name="verifyTheVisibilityOfSearchFacetTest" duration-ms="328057" started-at="2021-12-28T10:55:09 IST" finished-at="2021-12-28T11:00:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheVisibilityOfSearchFacetTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Test.AdvanceSearchFacetInteractionsTest@df27fae]" name="teardown" is-config="true" duration-ms="23035" started-at="2021-12-28T11:00:37 IST" finished-at="2021-12-28T11:01:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTheVisibilityOfSearchFacetTest status=SUCCESS method=AdvanceSearchFacetInteractionsTest.verifyTheVisibilityOfSearchFacetTest()[pri:1, instance:com.Test.AdvanceSearchFacetInteractionsTest@df27fae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Test.AdvanceSearchFacetInteractionsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
